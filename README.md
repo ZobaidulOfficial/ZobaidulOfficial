@@ -1,10 +1,23 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h1 align="center">Hi , I'm Md Zobaidul Islam Kazi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Self-Learner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+
+
+<br>
+
+## :sassy_man:  About me
+- I am a `Mechanical Engineer`, graduated from ''Mymensingh Polytechnic Institute''
+- :technologist: I love using Software as a solution for every `Problem`
+- :student: I’m currently learning: `Programming` and `Web Development`.
+- :nerd_face: Always `learning new things`
+
+<br>
+
+
 
 - 🔭 I’m currently working on this page. javascript 
 - 🌱 I’m currently learning lern into node js 
@@ -28,3 +41,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Zobaidulkazi)  
 
 ![Profile views](https://gpvc.arturio.dev/Zobaidulkazi)  
+
+
+
+Credits: [adityackr]https://github.com/ZobaidulOfficial
+
+Last Edited on: 02/08/2022
