@@ -9,7 +9,7 @@
 
 <br>
 
-- 🏫 I am a Mechanical Engineer, graduated from Chittagong University of Engineering and Technology (CUET)
+- 🏫 I am a Mechanical Engineer, graduated from Mymensingh Polytechnic Institute
 - 🧑‍💻 I love using Software as a solution for every Problem
 - 🧑‍🎓 I’m currently learning: Programming and Web Development
 - 🤓 Always learning new things
